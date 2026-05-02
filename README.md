@@ -70,4 +70,4 @@ Branch: main
 
 Save
 
-Your game will be available at: https://yourusername.github.io/Marcus_Santo_Domingo_Street_Justice/
+Your game will be available at: https://rehdogg60-hub.github.io/reh-dogg-games-plus/Marcus_Santo_Domingo_Street_Justice/
